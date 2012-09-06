@@ -1,6 +1,6 @@
 {
     "name": "mailchimp/mailchimp",
     "autoload": {
-        "psr-0": { "MailChimp": "src/" }
+        "psr-0": { "Mailchimp": "src/" }
     }
 }
