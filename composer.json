@@ -1,0 +1,7 @@
+{
+    "name": "mailchimp/mailchimp",
+    "autoload": {
+        "psr-0": { "MailChimp": "src" }
+    },
+    "target-dir": ""
+}
